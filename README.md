@@ -7,9 +7,7 @@ Is a Student Management System website, implements Java, Spring-boot and MYSQL l
 
 Add new student
 
-
-![image](https://user-images.githubusercontent.com/100151419/233743614-1ce07eda-91ba-4eb4-a42d-e88537aef90d.png)
-
+![example2](https://user-images.githubusercontent.com/100151419/233744101-616b1968-f322-444d-a79a-a491e972d966.jpg)
 
 
 Update student
